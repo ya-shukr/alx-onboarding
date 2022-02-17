@@ -1,0 +1,4 @@
+let numbers = ()
+read 4, 6 and 5  into numbers
+let sorted_numbers = sort(numbers)
+write numbers // 4, 5, 6
