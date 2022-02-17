@@ -1,0 +1,6 @@
+let numbers = 2, 5, 7, 3
+let sum_of_numbers_squares = 0
+
+for(number in numbers) {
+    sum_of_numbers_squares = sum_of_numbers_squares + square_of(number)
+}
